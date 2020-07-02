@@ -1,0 +1,45 @@
+#htPic {
+    display: flex;
+    width: 100%;
+    margin: 0;
+    background-size: cover;
+}
+
+#listing {
+    display: flex;
+    margin: 0;
+    width: 100%;
+
+}
+
+h3 {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pricePage {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.foncPage {
+    background-color: green;
+    margin-top: 0;
+    padding-bottom: 50px;
+}
+
+.carousselSlide {
+    margin-bottom: 0;
+}
+
+.temoin {
+    background-color: green;
+    margin-top: 0;
+    padding-bottom: 50px;
+}
+
+.counter {
+    font-size: 30px;
+}
